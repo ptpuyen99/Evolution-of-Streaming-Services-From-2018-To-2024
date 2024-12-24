@@ -6,6 +6,7 @@ Examine the financial performance and market positioning of streaming platforms.
 ![Screenshot 2024-12-23 at 2 06 09 PM](https://github.com/user-attachments/assets/77b4a565-9a57-4c4d-8a57-840166a2e4ed)
 ## Benchmark
 Compare streaming platforms against NASDAQ stocks to establish industry benchmarks.
+![Screenshot 2024-12-23 at 2 06 33 PM](https://github.com/user-attachments/assets/0751b4ce-e17c-4871-9e60-a243854004a8)
 ## Classify
 Group streaming platforms based on performance indicators to identify trends.
 ## Develop
