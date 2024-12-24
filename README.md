@@ -9,6 +9,7 @@ Compare streaming platforms against NASDAQ stocks to establish industry benchmar
 ![Screenshot 2024-12-23 at 2 06 33 PM](https://github.com/user-attachments/assets/0751b4ce-e17c-4871-9e60-a243854004a8)
 ## Classify
 Group streaming platforms based on performance indicators to identify trends.
+<img width="865" alt="Screenshot 2024-12-24 at 12 00 45 PM" src="https://github.com/user-attachments/assets/28041091-6432-45b5-9a2c-044c6929edd0" />
 ## Develop
 Recommendations to enhance market positioning and profitability.
 # Data Sources
