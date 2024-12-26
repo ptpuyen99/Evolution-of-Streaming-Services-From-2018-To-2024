@@ -23,10 +23,10 @@ Recommendations to enhance market positioning and profitability.
 # Key Insights
 #### Platforms like Netflix and Disney+ grew significantly due to their large content libraries and flexible models.
 #### Companies like Fox and Comcast faced challenges with limited global spreading and fewer content options.
-## Markets like India and Brazil show strong potential, especially with localized content.
-## Combining subscriptions with ads can help platforms stay profitable and competitive.
+#### Markets like India and Brazil show strong potential, especially with localized content.
+#### Combining subscriptions with ads can help platforms stay profitable and competitive.
 # Conclusion
-## To remain competitive, streaming platforms should:
-## 1. Invest in localized and diverse content.
-## 2. Explore hybrid monetization models, such as ad-supported subscriptions.
-## 3. Leverage data insights to adapt to changing consumer behaviors.
+#### To remain competitive, streaming platforms should:
+#### 1. Invest in localized and diverse content.
+#### 2. Explore hybrid monetization models, such as ad-supported subscriptions.
+#### 3. Leverage data insights to adapt to changing consumer behaviors.
