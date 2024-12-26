@@ -13,16 +13,16 @@ Group streaming platforms based on performance indicators to identify trends.
 ## Develop
 Recommendations to enhance market positioning and profitability.
 # Data Sources
-## NASDAQ financial data
-## Annual global subscription data
-## Market capitalization and stock performance metrics
+#### NASDAQ financial data
+#### Annual global subscription data
+#### Market capitalization and stock performance metrics
 # Data Analysis
-## Market Capitalization & Stock Returns
-## Subcription Trends
-## Financial metrics: total revenue, gross profit, operating expenses, and net income
+#### Market Capitalization & Stock Returns
+#### Subcription Trends
+#### Financial metrics: total revenue, gross profit, operating expenses, and net income
 # Key Insights
-## Platforms like Netflix and Disney+ grew significantly due to their large content libraries and flexible models.
-## Companies like Fox and Comcast faced challenges with limited global spreading and fewer content options.
+#### Platforms like Netflix and Disney+ grew significantly due to their large content libraries and flexible models.
+#### Companies like Fox and Comcast faced challenges with limited global spreading and fewer content options.
 ## Markets like India and Brazil show strong potential, especially with localized content.
 ## Combining subscriptions with ads can help platforms stay profitable and competitive.
 # Conclusion
